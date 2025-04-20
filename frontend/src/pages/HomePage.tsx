@@ -32,7 +32,7 @@ const HomePage: React.FC = () => {
                   className="inline-flex items-center px-6 py-3 border border-white text-base font-medium rounded-md shadow-sm text-white hover:bg-blue-700 transition-colors duration-200"
                 >
                   <Database className="mr-2" size={20} />
-                  Access Azure-Stored Documents
+                  Access Cloud-Stored Documents
                 </Link>
               </div>
             </div>
@@ -68,7 +68,7 @@ const HomePage: React.FC = () => {
               <div className="bg-white rounded-lg shadow-md p-6 hover:shadow-lg transition-shadow duration-200">
                 <Database className="w-12 h-12 text-blue-600 mb-4" />
                 <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                  Azure Storage
+                  Cloud Storage
                 </h3>
                 <p className="text-gray-600">
                   Save your processed documents to Azure for persistent access and reference across sessions.
@@ -131,7 +131,7 @@ const HomePage: React.FC = () => {
                     className="inline-flex items-center px-6 py-3 border border-white text-base font-medium rounded-md shadow-sm text-white hover:bg-blue-700 transition-colors duration-200"
                   >
                     <Database className="mr-2" size={20} />
-                    Access Azure Storage
+                    Access Cloud Storage
                   </Link>
                 </div>
               </div>

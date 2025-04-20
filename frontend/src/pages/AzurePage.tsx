@@ -124,13 +124,13 @@ const AzurePage: React.FC = () => {
       
       <main className="flex-1 container mx-auto px-4 py-8 max-w-6xl">
         <h1 className="text-2xl font-bold text-gray-900 mb-6">
-          Azure-Stored Medical Documents Chat
+          Cloud-Stored Medical Documents Chat
         </h1>
         
         <div className="bg-white rounded-lg shadow-md p-6 mb-6">
           <h2 className="text-xl font-semibold mb-4 text-gray-800 flex items-center">
             <Database className="mr-2" size={20} />
-            About Azure Storage Mode
+            About Cloud Storage Mode
           </h2>
           <p className="text-gray-700 mb-4">
             This mode allows you to chat with medical documents that have been uploaded and saved to Azure Blob Storage.
@@ -139,7 +139,7 @@ const AzurePage: React.FC = () => {
           <div className="bg-blue-50 p-4 rounded-md border border-blue-100">
             <h3 className="font-medium text-blue-800 mb-2">How to use Azure mode:</h3>
             <ol className="list-decimal list-inside text-gray-700 space-y-1">
-              <li>Upload documents in the Local Chat tab and check the "Save to Azure" option</li>
+              <li>Upload documents in the Local Chat tab and check the "Save to Cloud" option</li>
               <li>Once documents are saved to Azure, you can access them here anytime</li>
               <li>Ask questions about your stored medical documents</li>
             </ol>

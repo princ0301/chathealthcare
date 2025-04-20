@@ -47,7 +47,7 @@ const Header: React.FC = () => {
               }`}
             >
               <Database className="h-4 w-4 mr-1" />
-              Azure Chat
+              Cloud Chat
             </Link>
           </nav>
           
@@ -108,7 +108,7 @@ const Header: React.FC = () => {
             onClick={() => document.getElementById('mobile-menu')?.classList.add('hidden')}
           >
             <Database className="h-4 w-4 mr-1" />
-            Azure Chat
+            Cloud Chat
           </Link>
         </div>
       </div>

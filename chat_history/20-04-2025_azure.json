@@ -1,6 +1,16 @@
 [
   {
     "role": "user",
+    "content": "tell me about pateint",
+    "timestamp": "12:25:12"
+  },
+  {
+    "role": "assistant",
+    "content": "Based on the provided medical documents, here is the information about the patient:\n\n**Patient's Name:** Albert Trito\n**Gender:** Male\n**Age:** 48 years old\n**Ethnicity:** Hispanic\n\n**Chief Complaint:** The patient presented with lightheadedness and muscle weakness, which made him feel too weak to walk.\n\n**Medical History:** The patient has a 2-month history of Rheumatoid Arthritis (RA) and a strong family history of autoimmune diseases. He was diagnosed with RA 4 months ago and was given a short course of corticosteroids, which alleviated his symptoms. He was also started on methotrexate, but felt that the medication was ineffective.\n\n**Family History:** The patient's father has hypertension, his mother has hypothyroidism, his brother has vitiligo, and his sister has no known chronic health issues. His two sons are healthy with no known chronic health issues.\n\n**Social History:** The patient is a high school graduate, working as an electrician, and living with his wife of 25 years and two dogs. He feels safe and well-cared for in his home. His job requires daily physical exertion, which has been impacted by his lightheadedness and muscle pain and weakness. He is concerned about missing additional work due to his illness. He denies any history of smoking and has ceased alcohol intake since the onset of symptoms 4 months ago.\n\n**Laboratory Results:** The patient's laboratory results show elevated lactate dehydrogenase, creatinine kinase, and decreased red blood cell count, hemoglobin, hematocrit, white blood cell count, and platelet count. Imaging results show chronic enlargement of the parotid gland, bilateral neck, axilla, and groin lymphadenopathy, but with normal morphology and fatty hila.\n\n**Problem List:** The patient's problem list includes joint pain, unintentional weight loss, fever, night sweats, early satiety, dry eye, and mouth.",
+    "timestamp": "12:25:12"
+  },
+  {
+    "role": "user",
     "content": "how many types of patient do you have",
     "timestamp": "01:26:17"
   },
